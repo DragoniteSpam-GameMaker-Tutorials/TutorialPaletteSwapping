@@ -14,7 +14,6 @@
     {"name":"se_coin","order":4,"path":"sounds/se_coin/se_coin.yy",},
     {"name":"se_footstep","order":6,"path":"sounds/se_footstep/se_footstep.yy",},
     {"name":"spr_doggo","order":1,"path":"sprites/spr_doggo/spr_doggo.yy",},
-    {"name":"spr_duck_palette_alt","order":7,"path":"sprites/spr_duck_palette_alt/spr_duck_palette_alt.yy",},
     {"name":"spr_duck_palette","order":8,"path":"sprites/spr_duck_palette/spr_duck_palette.yy",},
     {"name":"spr_duckling_cast","order":3,"path":"sprites/spr_duckling_cast/spr_duckling_cast.yy",},
     {"name":"spr_duckling_run","order":4,"path":"sprites/spr_duckling_run/spr_duckling_run.yy",},

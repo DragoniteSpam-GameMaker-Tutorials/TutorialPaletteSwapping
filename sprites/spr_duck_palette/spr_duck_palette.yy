@@ -2,7 +2,7 @@
   "$GMSprite":"",
   "%Name":"spr_duck_palette",
   "bboxMode":0,
-  "bbox_bottom":0,
+  "bbox_bottom":1,
   "bbox_left":0,
   "bbox_right":15,
   "bbox_top":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":1,
+  "height":2,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"5530a634-9f08-4d74-93d8-7c0662dafbd2","blendMode":0,"displayName":"default","isLocked":false,"name":"5530a634-9f08-4d74-93d8-7c0662dafbd2","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},

@@ -34,7 +34,6 @@
     {"id":{"name":"se_coin","path":"sounds/se_coin/se_coin.yy",},},
     {"id":{"name":"se_footstep","path":"sounds/se_footstep/se_footstep.yy",},},
     {"id":{"name":"spr_doggo","path":"sprites/spr_doggo/spr_doggo.yy",},},
-    {"id":{"name":"spr_duck_palette_alt","path":"sprites/spr_duck_palette_alt/spr_duck_palette_alt.yy",},},
     {"id":{"name":"spr_duck_palette","path":"sprites/spr_duck_palette/spr_duck_palette.yy",},},
     {"id":{"name":"spr_duckling_cast","path":"sprites/spr_duckling_cast/spr_duckling_cast.yy",},},
     {"id":{"name":"spr_duckling_run","path":"sprites/spr_duckling_run/spr_duckling_run.yy",},},
