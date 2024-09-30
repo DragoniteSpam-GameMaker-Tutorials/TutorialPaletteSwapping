@@ -1,0 +1,1 @@
+draw_sprite(sprite_index, anim_dir * 4 + anim_frame, x, y);
