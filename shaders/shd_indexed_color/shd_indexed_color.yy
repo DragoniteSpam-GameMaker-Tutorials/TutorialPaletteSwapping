@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_indexed_color",
+  "name":"shd_indexed_color",
+  "parent":{
+    "name":"TutorialPaletteSwapping",
+    "path":"TutorialPaletteSwapping.yyp",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

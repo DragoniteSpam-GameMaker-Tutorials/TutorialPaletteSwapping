@@ -11,3 +11,5 @@ if (!audio_is_playing(bgm_idle_with_accordions)) {
 }
 
 show_debug_overlay(true);
+
+palette_index = 0;
